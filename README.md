@@ -30,8 +30,7 @@ for i in range(iterations):
   pb.next()
 ```
 
-<img width="400" alt="image" src="https://github.com/dvolynov/progress_bar/assets/83712099/78de0d08-2f1d-455d-9a88-d6a716724d2d">
-
+<img width="500" alt="image" src="https://github.com/dvolynov/progress_bar/assets/83712099/4e02b230-1948-4632-9ae3-062186b56eab">
 
 ## License 
 
